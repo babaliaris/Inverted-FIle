@@ -1,0 +1,14 @@
+1) The main.py is the user interface.
+
+2) The Source_Files folder contains all the classes which constructs the program.
+
+3) The Files Input folder is where the ".txt" files must be. The program will search for text files in there!!!
+   Make sure that the filenames have 8 characters max (without counting the extension).
+
+
+How to run the program:
+-----------------------
+
+    Run main.py using python 3! 
+
+    Do NOT use python 2, this is very important (Better use the latest version of python)!!!
